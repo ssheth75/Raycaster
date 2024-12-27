@@ -1,0 +1,3 @@
+/Users/shirvilsheth/Projects/Raycaster/build/CMakeFiles/Raycaster.dir
+/Users/shirvilsheth/Projects/Raycaster/build/CMakeFiles/edit_cache.dir
+/Users/shirvilsheth/Projects/Raycaster/build/CMakeFiles/rebuild_cache.dir
